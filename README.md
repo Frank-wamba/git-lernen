@@ -8,3 +8,7 @@ Ich lerne gerade Git und GitHub.
 - GitHub verwenden
 - Commits erstellen
 - Projekte für mein Portfolio veröffentlichen
+
+## Über mich
+
+Ich lerne Git und GitHub im Rahmen meiner Ausbildung zum Fachinformatiker für Anwendungsentwicklung.
