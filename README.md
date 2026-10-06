@@ -12,3 +12,6 @@ Ich lerne gerade Git und GitHub.
 ## Über mich
 
 Ich lerne Git und GitHub im Rahmen meiner Ausbildung zum Fachinformatiker für Anwendungsentwicklung.
+
+## Kontakt
+GitHub: Frank-wamba
